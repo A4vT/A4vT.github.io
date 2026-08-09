@@ -1,0 +1,47 @@
+baseURL = 'https://github.com/A4vT'
+locale = 'en-us'
+theme = "PaperMod"
+
+[pagination]
+pagerSize = 10
+
+[params]
+author = "Ax21"
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowCodeCopyButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowToc = true
+mainSections = ["posts"]
+
+[[menu.main]]
+identifier = "resources"
+name = "Resources"
+url = "/resources/"
+weight = 30
+
+[[menu.main]]
+identifier = "write-ups"
+name = "Write-ups"
+url = "/writeups/"
+weight = 40
+
+[[menu.main]]
+identifier = "tools"
+name = "Tools"
+url = "/tools/"
+weight = 50
+
+[[menu.main]]
+identifier = "notes"
+name = "Notes"
+url = "/notes/"
+weight = 60
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 70
