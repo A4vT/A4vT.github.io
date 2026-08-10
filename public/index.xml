@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ax21 on </title>
+    <link>https://A4vT.github.io/</link>
+    <description>Recent content in Ax21 on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://A4vT.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>https://A4vT.github.io/resources/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/resources/books/</guid>
+      <description>&lt;h2 id=&#34;os-internalslinux&#34;&gt;Os Internals(linux)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Linux Programming Interface&lt;/li&gt;
+&lt;li&gt;Modern Operating Systems&lt;/li&gt;
+&lt;li&gt;Understanding the Linux Kernel&lt;/li&gt;
+&lt;li&gt;Linux Kernel Developement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;c-programming-language&#34;&gt;C programming Language&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628&#34;&gt;The C Programming Language (2nd Edition)&lt;/a&gt;&lt;/strong&gt; by Brian Kernighan and Dennis Ritchie.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Why read it:&lt;/em&gt; The Classic book to learn C.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.amazon.com/Primer-Plus-6th-Developers-Library-dp-0321928423/dp/0321928423&#34;&gt;C Primer Plus&lt;/a&gt;&lt;/strong&gt; by Stephen Prata.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Why read it:&lt;/em&gt; good for beginners, it Explain core concepts without assuming prior knowledge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.oreilly.com/library/view/21st-century-c/9781491904428/&#34;&gt;21st Century C&lt;/a&gt;&lt;/strong&gt; by Ben Klemens.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Why read it:&lt;/em&gt; must-read for anyone looking to enhance their modern c programming skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.amazon.com/Learn-Hard-Way-Practical-Computational/dp/0321884922&#34;&gt;Learn C the Hard Way&lt;/a&gt;&lt;/strong&gt; by Zed Shaw.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>C Programming Language</title>
+      <link>https://A4vT.github.io/notes/c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/notes/c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Courses</title>
+      <link>https://A4vT.github.io/resources/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/resources/courses/</guid>
+      <description>&lt;h3 id=&#34;nightmare&#34;&gt;&lt;a href=&#34;https://guyinatuxedo.github.io/index.html&#34;&gt;Nightmare&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>CTF Write-ups: [Write up test]</title>
+      <link>https://A4vT.github.io/writeups/first-write-up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/writeups/first-write-up/</guid>
+      <description>&lt;h2 id=&#34;1-summary&#34;&gt;1. Summary&lt;/h2&gt;
+&lt;p&gt;[This challenge] is a beginner-friendly binary exploitation challenge test from [ctf name], The binary suffers from a standard stack overflow due to the unsafe use of the &lt;code&gt;gets()&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;2-initial-analysis&#34;&gt;2. Initial Analysis&lt;/h2&gt;
+&lt;p&gt;first, i ran &lt;code&gt;checksec&lt;/code&gt; against the provided binary to inspect its protection&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;checksec --file&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;vuln
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Output:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# RELRO: Partial relro&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# stack: no canary found&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# NX:   Nx disabled&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# PIE:  No PIE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;Takeaway:&lt;/em&gt; With no stack canary and PIE disabled, the memory addresses stay static, making a standard return-address overwrite highly feasible.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploit Development</title>
+      <link>https://A4vT.github.io/notes/exploit-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/notes/exploit-development/</guid>
+      <description>&lt;h2 id=&#34;zero-click-exploit&#34;&gt;zero click exploit&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;zero-click&lt;/strong&gt; exploit is a type of cyber attack that doesn&amp;rsquo;t require the victim to click on anything or do anything to trigger it. Instead, it takes advantage of vulnerabilities in software or devices that automatically execute malicious actions without the user&amp;rsquo;s interaction.&lt;/p&gt;
+&lt;h2 id=&#34;remote-code-execution&#34;&gt;Remote Code Execution&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Remote Code Execution&lt;/strong&gt; (RCE) is a type of cyber-attack where an attacker can run malicious code or commands on someone else&amp;rsquo;s computer or server from a remote location. In simple terms, it&amp;rsquo;s like someone gaining control of another person&amp;rsquo;s computer over the internet without physically touching it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>General Cybersecurity</title>
+      <link>https://A4vT.github.io/notes/general-cybersecurity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/notes/general-cybersecurity/</guid>
+      <description>&lt;h2 id=&#34;password-spraying&#34;&gt;Password Spraying&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Password spraying&lt;/strong&gt; is when attackers try many common passwords across many accounts, hoping to find one that works, instead of focusing on just one account with many different passwords. It avoids account lockouts by using common passwords like &amp;ldquo;123456&amp;rdquo; on multiple accounts.&lt;/p&gt;
+&lt;h2 id=&#34;living-of-the-land&#34;&gt;Living of The Land&lt;/h2&gt;
+&lt;p&gt;The main point of the &amp;ldquo;Living off the Land&amp;rdquo; technique is to use existing tools and software already present on a target system (like system utilities or native scripts) to carry out cyber attacks, rather than relying on malware or external tools.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OS internals</title>
+      <link>https://A4vT.github.io/notes/os-internals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/notes/os-internals/</guid>
+      <description>&lt;h2 id=&#34;branch-prediction&#34;&gt;Branch Prediction&lt;/h2&gt;
+&lt;p&gt;Is a technique whereby the processor will guess which multiple execution sequences will be executed.&lt;/p&gt;
+&lt;h2 id=&#34;pipelining&#34;&gt;Pipelining&lt;/h2&gt;
+&lt;p&gt;is a hardware technique commonly used to improve processor performance and is achieved by overlapping instruction execution.&lt;/p&gt;
+&lt;h2 id=&#34;compiler-vs-interpreter&#34;&gt;Compiler Vs Interpreter&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Compiler&lt;/strong&gt; translate the entire program at once, which means faster execution, while &lt;strong&gt;Interpreter&lt;/strong&gt; executes code line by line, offering flexibility but slower performance.
+&lt;strong&gt;Compilers&lt;/strong&gt; catches errors after compilation, &lt;strong&gt;interpreters&lt;/strong&gt; find errors as they go, stopping at the firs one, making Debugging easier but slower.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Practice Platforms</title>
+      <link>https://A4vT.github.io/resources/practice-platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/resources/practice-platforms/</guid>
+      <description>&lt;h3 id=&#34;pwncollege&#34;&gt;&lt;a href=&#34;https://pwn.college&#34;&gt;pwn.college&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;overthewire&#34;&gt;&lt;a href=&#34;https://overthewire.org&#34;&gt;OverTheWire&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;hackthebox&#34;&gt;&lt;a href=&#34;https://HackTheBox.com&#34;&gt;HackTheBox&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;picoctf&#34;&gt;&lt;a href=&#34;https://picoctf.org&#34;&gt;PicoCTF&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;rop-emporium&#34;&gt;&lt;a href=&#34;https://ropemporium.com&#34;&gt;ROP Emporium&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Reverse Enginnering</title>
+      <link>https://A4vT.github.io/notes/reverse-enginnering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/notes/reverse-enginnering/</guid>
+      <description>&lt;h2 id=&#34;disassembly&#34;&gt;Disassembly&lt;/h2&gt;
+&lt;p&gt;is a tool that converts machine code (the binary instructions that a computer&amp;rsquo;s processor can execute) back into assembly language, which is a more human-readable representation of that code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Purpose of Pointers</title>
+      <link>https://A4vT.github.io/posts/the-purpose-of-pointers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/posts/the-purpose-of-pointers/</guid>
+      <description>&lt;h2 id=&#34;why-pointers-matter&#34;&gt;Why Pointers Matter&lt;/h2&gt;
+&lt;p&gt;So why even pointers matter in C ? What their purpose and how misusing pointers can lead to serious consequences.&lt;/p&gt;
+&lt;p&gt;C relies heavily on Pointers for managing &lt;em&gt;arrays&lt;/em&gt;, &lt;em&gt;strings&lt;/em&gt;, &lt;em&gt;functions&lt;/em&gt; so without understanding Pointers you&amp;rsquo;ll struggle to write efficient code.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-a-pointer-&#34;&gt;What Is a Pointer ?&lt;/h3&gt;
+&lt;p&gt;to give a simple explaination, when you create a variable you hold a value, each variable stored in specific location in the Computer Memory which is called &lt;code&gt;Address&lt;/code&gt;, so a Pointers is variable that stores the address of an object, it allows the program to access that object indirectly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Stack And The Heap</title>
+      <link>https://A4vT.github.io/posts/the-stack-and-the-heap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/posts/the-stack-and-the-heap/</guid>
+      <description>&lt;h2 id=&#34;what-is-the-stack-and-the-heap&#34;&gt;What is the Stack and The Heap&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>What&#39;s Exploit Development</title>
+      <link>https://A4vT.github.io/posts/what-is-exploit-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/posts/what-is-exploit-development/</guid>
+      <description>&lt;p&gt;Exploit development is the study of finding and understanding software weaknesses (vulnerabilities), then analyzing how programs behave at a low level. It combines low-level programming, operating systems, assembly, reverse engineering, and computer architecture.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

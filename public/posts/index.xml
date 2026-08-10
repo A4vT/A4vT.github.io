@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on </title>
+    <link>https://A4vT.github.io/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://A4vT.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Purpose of Pointers</title>
+      <link>https://A4vT.github.io/posts/the-purpose-of-pointers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/posts/the-purpose-of-pointers/</guid>
+      <description>&lt;h2 id=&#34;why-pointers-matter&#34;&gt;Why Pointers Matter&lt;/h2&gt;
+&lt;p&gt;So why even pointers matter in C ? What their purpose and how misusing pointers can lead to serious consequences.&lt;/p&gt;
+&lt;p&gt;C relies heavily on Pointers for managing &lt;em&gt;arrays&lt;/em&gt;, &lt;em&gt;strings&lt;/em&gt;, &lt;em&gt;functions&lt;/em&gt; so without understanding Pointers you&amp;rsquo;ll struggle to write efficient code.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-a-pointer-&#34;&gt;What Is a Pointer ?&lt;/h3&gt;
+&lt;p&gt;to give a simple explaination, when you create a variable you hold a value, each variable stored in specific location in the Computer Memory which is called &lt;code&gt;Address&lt;/code&gt;, so a Pointers is variable that stores the address of an object, it allows the program to access that object indirectly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Stack And The Heap</title>
+      <link>https://A4vT.github.io/posts/the-stack-and-the-heap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/posts/the-stack-and-the-heap/</guid>
+      <description>&lt;h2 id=&#34;what-is-the-stack-and-the-heap&#34;&gt;What is the Stack and The Heap&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>What&#39;s Exploit Development</title>
+      <link>https://A4vT.github.io/posts/what-is-exploit-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://A4vT.github.io/posts/what-is-exploit-development/</guid>
+      <description>&lt;p&gt;Exploit development is the study of finding and understanding software weaknesses (vulnerabilities), then analyzing how programs behave at a low level. It combines low-level programming, operating systems, assembly, reverse engineering, and computer architecture.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

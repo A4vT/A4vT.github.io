@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Info on </title>
+    <link>http://localhost:1313/A4vT/tags/info/</link>
+    <description>Recent content in Info on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/A4vT/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/A4vT/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/A4vT/about/about/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;
+&lt;p&gt;i&amp;rsquo;m a beginner who&amp;rsquo;s self studying cybersecurity, and lately i discovered this field (exploit-dev) and i want to be a skilled at it, so i&amp;rsquo;m making this blog for my future me and for anyone who want to dive deep into this field.&lt;/p&gt;
+&lt;h3 id=&#34;my-goals-are&#34;&gt;My goals are:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;learn how to code in low level (mainly C and Assembly).&lt;/li&gt;
+&lt;li&gt;learn Operating System internals.&lt;/li&gt;
+&lt;li&gt;write exploit&lt;/li&gt;
+&lt;li&gt;solve hard CTF challenges&lt;/li&gt;
+&lt;li&gt;learn Reverse enginnering&lt;/li&gt;
+&lt;li&gt;and become a kernel exploit dev in the future (linux as a first step).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hope this site gonna help other beginners while also serving as my personal knowledge base.
+Peace.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
