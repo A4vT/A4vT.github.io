@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Writeups on </title>
+    <link>http://localhost:1313/writeups/</link>
+    <description>Recent content in Writeups on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF Write-ups: [Write up test]</title>
+      <link>http://localhost:1313/writeups/first-write-up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writeups/first-write-up/</guid>
+      <description>&lt;h2 id=&#34;1-summary&#34;&gt;1. Summary&lt;/h2&gt;
+&lt;p&gt;[This challenge] is a beginner-friendly binary exploitation challenge test from [ctf name], The binary suffers from a standard stack overflow due to the unsafe use of the &lt;code&gt;gets()&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;2-initial-analysis&#34;&gt;2. Initial Analysis&lt;/h2&gt;
+&lt;p&gt;first, i ran &lt;code&gt;checksec&lt;/code&gt; against the provided binary to inspect its protection&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;checksec --file&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;vuln
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Output:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# RELRO: Partial relro&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# stack: no canary found&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# NX:   Nx disabled&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# PIE:  No PIE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;Takeaway:&lt;/em&gt; With no stack canary and PIE disabled, the memory addresses stay static, making a standard return-address overwrite highly feasible.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

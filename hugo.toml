@@ -1,9 +1,20 @@
-baseURL = 'https://a4vt.github.io'
+baseURL = 'https://a4vt.github.io/'
 locale = 'en-us'
+languageCode = 'en-us'
+enableRobotsTXT = true
 theme = "PaperMod"
 
 [pagination]
 pagerSize = 10
+
+[params.profileMode]
+enabled = true
+title = "Ax21"
+imageTitle = "Ax21"
+subtitle = "Cybersecurity * Low-level Programming * Reverse Engineering * Exploit Development"
+imageURL = "/images/eliot.jpg"
+imageWidth = 150
+imageHeight = 150
 
 [params]
 author = "Ax21"
