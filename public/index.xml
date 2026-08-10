@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ax21 on </title>
-    <link>http://localhost:1313/A4vT/</link>
+    <link>https://github.com/A4vT/</link>
     <description>Recent content in Ax21 on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/A4vT/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/A4vT/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/A4vT/resources/books/</link>
+      <link>https://github.com/A4vT/resources/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/resources/books/</guid>
+      <guid>https://github.com/A4vT/resources/books/</guid>
       <description>&lt;h2 id=&#34;os-internalslinux&#34;&gt;Os Internals(linux)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;The Linux Programming Interface&lt;/li&gt;
@@ -45,23 +45,23 @@
     </item>
     <item>
       <title>C Programming Language</title>
-      <link>http://localhost:1313/A4vT/notes/c/</link>
+      <link>https://github.com/A4vT/notes/c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/c/</guid>
+      <guid>https://github.com/A4vT/notes/c/</guid>
       <description></description>
     </item>
     <item>
       <title>Courses</title>
-      <link>http://localhost:1313/A4vT/resources/courses/</link>
+      <link>https://github.com/A4vT/resources/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/resources/courses/</guid>
+      <guid>https://github.com/A4vT/resources/courses/</guid>
       <description>&lt;h3 id=&#34;nightmare&#34;&gt;&lt;a href=&#34;https://guyinatuxedo.github.io/index.html&#34;&gt;Nightmare&lt;/a&gt;&lt;/h3&gt;</description>
     </item>
     <item>
       <title>CTF Write-ups: [Write up test]</title>
-      <link>http://localhost:1313/A4vT/writeups/first-write-up/</link>
+      <link>https://github.com/A4vT/writeups/first-write-up/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/writeups/first-write-up/</guid>
+      <guid>https://github.com/A4vT/writeups/first-write-up/</guid>
       <description>&lt;h2 id=&#34;1-summary&#34;&gt;1. Summary&lt;/h2&gt;
 &lt;p&gt;[This challenge] is a beginner-friendly binary exploitation challenge test from [ctf name], The binary suffers from a standard stack overflow due to the unsafe use of the &lt;code&gt;gets()&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;2-initial-analysis&#34;&gt;2. Initial Analysis&lt;/h2&gt;
@@ -76,9 +76,9 @@
     </item>
     <item>
       <title>Exploit Development</title>
-      <link>http://localhost:1313/A4vT/notes/exploit-development/</link>
+      <link>https://github.com/A4vT/notes/exploit-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/exploit-development/</guid>
+      <guid>https://github.com/A4vT/notes/exploit-development/</guid>
       <description>&lt;h2 id=&#34;zero-click-exploit&#34;&gt;zero click exploit&lt;/h2&gt;
 &lt;p&gt;A &lt;strong&gt;zero-click&lt;/strong&gt; exploit is a type of cyber attack that doesn&amp;rsquo;t require the victim to click on anything or do anything to trigger it. Instead, it takes advantage of vulnerabilities in software or devices that automatically execute malicious actions without the user&amp;rsquo;s interaction.&lt;/p&gt;
 &lt;h2 id=&#34;remote-code-execution&#34;&gt;Remote Code Execution&lt;/h2&gt;
@@ -86,9 +86,9 @@
     </item>
     <item>
       <title>General Cybersecurity</title>
-      <link>http://localhost:1313/A4vT/notes/general-cybersecurity/</link>
+      <link>https://github.com/A4vT/notes/general-cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/general-cybersecurity/</guid>
+      <guid>https://github.com/A4vT/notes/general-cybersecurity/</guid>
       <description>&lt;h2 id=&#34;password-spraying&#34;&gt;Password Spraying&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Password spraying&lt;/strong&gt; is when attackers try many common passwords across many accounts, hoping to find one that works, instead of focusing on just one account with many different passwords. It avoids account lockouts by using common passwords like &amp;ldquo;123456&amp;rdquo; on multiple accounts.&lt;/p&gt;
 &lt;h2 id=&#34;living-of-the-land&#34;&gt;Living of The Land&lt;/h2&gt;
@@ -96,9 +96,9 @@
     </item>
     <item>
       <title>OS internals</title>
-      <link>http://localhost:1313/A4vT/notes/os-internals/</link>
+      <link>https://github.com/A4vT/notes/os-internals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/os-internals/</guid>
+      <guid>https://github.com/A4vT/notes/os-internals/</guid>
       <description>&lt;h2 id=&#34;branch-prediction&#34;&gt;Branch Prediction&lt;/h2&gt;
 &lt;p&gt;Is a technique whereby the processor will guess which multiple execution sequences will be executed.&lt;/p&gt;
 &lt;h2 id=&#34;pipelining&#34;&gt;Pipelining&lt;/h2&gt;
@@ -109,9 +109,9 @@
     </item>
     <item>
       <title>Practice Platforms</title>
-      <link>http://localhost:1313/A4vT/resources/practice-platforms/</link>
+      <link>https://github.com/A4vT/resources/practice-platforms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/resources/practice-platforms/</guid>
+      <guid>https://github.com/A4vT/resources/practice-platforms/</guid>
       <description>&lt;h3 id=&#34;pwncollege&#34;&gt;&lt;a href=&#34;https://pwn.college&#34;&gt;pwn.college&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;overthewire&#34;&gt;&lt;a href=&#34;https://overthewire.org&#34;&gt;OverTheWire&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;hackthebox&#34;&gt;&lt;a href=&#34;https://HackTheBox.com&#34;&gt;HackTheBox&lt;/a&gt;&lt;/h3&gt;
@@ -120,17 +120,17 @@
     </item>
     <item>
       <title>Reverse Enginnering</title>
-      <link>http://localhost:1313/A4vT/notes/reverse-enginnering/</link>
+      <link>https://github.com/A4vT/notes/reverse-enginnering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/reverse-enginnering/</guid>
+      <guid>https://github.com/A4vT/notes/reverse-enginnering/</guid>
       <description>&lt;h2 id=&#34;disassembly&#34;&gt;Disassembly&lt;/h2&gt;
 &lt;p&gt;is a tool that converts machine code (the binary instructions that a computer&amp;rsquo;s processor can execute) back into assembly language, which is a more human-readable representation of that code.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Purpose of Pointers</title>
-      <link>http://localhost:1313/A4vT/posts/the-purpose-of-pointers/</link>
+      <link>https://github.com/A4vT/posts/the-purpose-of-pointers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/posts/the-purpose-of-pointers/</guid>
+      <guid>https://github.com/A4vT/posts/the-purpose-of-pointers/</guid>
       <description>&lt;h2 id=&#34;why-pointers-matter&#34;&gt;Why Pointers Matter&lt;/h2&gt;
 &lt;p&gt;So why even pointers matter in C ? What their purpose and how misusing pointers can lead to serious consequences.&lt;/p&gt;
 &lt;p&gt;C relies heavily on Pointers for managing &lt;em&gt;arrays&lt;/em&gt;, &lt;em&gt;strings&lt;/em&gt;, &lt;em&gt;functions&lt;/em&gt; so without understanding Pointers you&amp;rsquo;ll struggle to write efficient code.&lt;/p&gt;
@@ -139,16 +139,16 @@
     </item>
     <item>
       <title>The Stack And The Heap</title>
-      <link>http://localhost:1313/A4vT/posts/the-stack-and-the-heap/</link>
+      <link>https://github.com/A4vT/posts/the-stack-and-the-heap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/posts/the-stack-and-the-heap/</guid>
+      <guid>https://github.com/A4vT/posts/the-stack-and-the-heap/</guid>
       <description>&lt;h2 id=&#34;what-is-the-stack-and-the-heap&#34;&gt;What is the Stack and The Heap&lt;/h2&gt;</description>
     </item>
     <item>
       <title>What&#39;s Exploit Development</title>
-      <link>http://localhost:1313/A4vT/posts/what-is-exploit-development/</link>
+      <link>https://github.com/A4vT/posts/what-is-exploit-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/posts/what-is-exploit-development/</guid>
+      <guid>https://github.com/A4vT/posts/what-is-exploit-development/</guid>
       <description>&lt;p&gt;Exploit development is the study of finding and understanding software weaknesses (vulnerabilities), then analyzing how programs behave at a low level. It combines low-level programming, operating systems, assembly, reverse engineering, and computer architecture.&lt;/p&gt;</description>
     </item>
   </channel>

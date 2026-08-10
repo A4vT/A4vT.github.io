@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Notes on </title>
-    <link>http://localhost:1313/A4vT/notes/</link>
+    <link>https://github.com/A4vT/notes/</link>
     <description>Recent content in Notes on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/A4vT/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/A4vT/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C Programming Language</title>
-      <link>http://localhost:1313/A4vT/notes/c/</link>
+      <link>https://github.com/A4vT/notes/c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/c/</guid>
+      <guid>https://github.com/A4vT/notes/c/</guid>
       <description></description>
     </item>
     <item>
       <title>Exploit Development</title>
-      <link>http://localhost:1313/A4vT/notes/exploit-development/</link>
+      <link>https://github.com/A4vT/notes/exploit-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/exploit-development/</guid>
+      <guid>https://github.com/A4vT/notes/exploit-development/</guid>
       <description>&lt;h2 id=&#34;zero-click-exploit&#34;&gt;zero click exploit&lt;/h2&gt;
 &lt;p&gt;A &lt;strong&gt;zero-click&lt;/strong&gt; exploit is a type of cyber attack that doesn&amp;rsquo;t require the victim to click on anything or do anything to trigger it. Instead, it takes advantage of vulnerabilities in software or devices that automatically execute malicious actions without the user&amp;rsquo;s interaction.&lt;/p&gt;
 &lt;h2 id=&#34;remote-code-execution&#34;&gt;Remote Code Execution&lt;/h2&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>General Cybersecurity</title>
-      <link>http://localhost:1313/A4vT/notes/general-cybersecurity/</link>
+      <link>https://github.com/A4vT/notes/general-cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/general-cybersecurity/</guid>
+      <guid>https://github.com/A4vT/notes/general-cybersecurity/</guid>
       <description>&lt;h2 id=&#34;password-spraying&#34;&gt;Password Spraying&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Password spraying&lt;/strong&gt; is when attackers try many common passwords across many accounts, hoping to find one that works, instead of focusing on just one account with many different passwords. It avoids account lockouts by using common passwords like &amp;ldquo;123456&amp;rdquo; on multiple accounts.&lt;/p&gt;
 &lt;h2 id=&#34;living-of-the-land&#34;&gt;Living of The Land&lt;/h2&gt;
@@ -36,9 +36,9 @@
     </item>
     <item>
       <title>OS internals</title>
-      <link>http://localhost:1313/A4vT/notes/os-internals/</link>
+      <link>https://github.com/A4vT/notes/os-internals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/os-internals/</guid>
+      <guid>https://github.com/A4vT/notes/os-internals/</guid>
       <description>&lt;h2 id=&#34;branch-prediction&#34;&gt;Branch Prediction&lt;/h2&gt;
 &lt;p&gt;Is a technique whereby the processor will guess which multiple execution sequences will be executed.&lt;/p&gt;
 &lt;h2 id=&#34;pipelining&#34;&gt;Pipelining&lt;/h2&gt;
@@ -49,9 +49,9 @@
     </item>
     <item>
       <title>Reverse Enginnering</title>
-      <link>http://localhost:1313/A4vT/notes/reverse-enginnering/</link>
+      <link>https://github.com/A4vT/notes/reverse-enginnering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/notes/reverse-enginnering/</guid>
+      <guid>https://github.com/A4vT/notes/reverse-enginnering/</guid>
       <description>&lt;h2 id=&#34;disassembly&#34;&gt;Disassembly&lt;/h2&gt;
 &lt;p&gt;is a tool that converts machine code (the binary instructions that a computer&amp;rsquo;s processor can execute) back into assembly language, which is a more human-readable representation of that code.&lt;/p&gt;</description>
     </item>

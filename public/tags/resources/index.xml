@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Resources on </title>
-    <link>http://localhost:1313/A4vT/tags/resources/</link>
+    <link>https://github.com/A4vT/tags/resources/</link>
     <description>Recent content in Resources on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/A4vT/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/A4vT/tags/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Courses</title>
-      <link>http://localhost:1313/A4vT/resources/courses/</link>
+      <link>https://github.com/A4vT/resources/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/A4vT/resources/courses/</guid>
+      <guid>https://github.com/A4vT/resources/courses/</guid>
       <description>&lt;h3 id=&#34;nightmare&#34;&gt;&lt;a href=&#34;https://guyinatuxedo.github.io/index.html&#34;&gt;Nightmare&lt;/a&gt;&lt;/h3&gt;</description>
     </item>
   </channel>

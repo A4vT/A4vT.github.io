@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/A4vT/tools/</loc>
+    <loc>https://github.com/A4vT/tools/</loc>
     <lastmod>2026-08-05T10:53:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/A4vT/tags/assembly/</loc>
+    <loc>https://github.com/A4vT/tags/assembly/</loc>
     <lastmod>2026-08-05T10:53:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/A4vT/</loc>
+    <loc>https://github.com/A4vT/</loc>
     <lastmod>2026-08-05T10:53:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/A4vT/tags/</loc>
+    <loc>https://github.com/A4vT/tags/</loc>
     <lastmod>2026-08-05T10:53:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/A4vT/about/</loc>
+    <loc>https://github.com/A4vT/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/resources/books/</loc>
+    <loc>https://github.com/A4vT/resources/books/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/tags/c/</loc>
+    <loc>https://github.com/A4vT/tags/c/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/notes/c/</loc>
+    <loc>https://github.com/A4vT/notes/c/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/categories/</loc>
+    <loc>https://github.com/A4vT/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/resources/courses/</loc>
+    <loc>https://github.com/A4vT/resources/courses/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/writeups/first-write-up/</loc>
+    <loc>https://github.com/A4vT/writeups/first-write-up/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/tags/ctf-c-buffer-overflow/</loc>
+    <loc>https://github.com/A4vT/tags/ctf-c-buffer-overflow/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/notes/exploit-development/</loc>
+    <loc>https://github.com/A4vT/notes/exploit-development/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/notes/general-cybersecurity/</loc>
+    <loc>https://github.com/A4vT/notes/general-cybersecurity/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/notes/</loc>
+    <loc>https://github.com/A4vT/notes/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/notes/os-internals/</loc>
+    <loc>https://github.com/A4vT/notes/os-internals/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/tags/os-internals/</loc>
+    <loc>https://github.com/A4vT/tags/os-internals/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/posts/</loc>
+    <loc>https://github.com/A4vT/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/resources/practice-platforms/</loc>
+    <loc>https://github.com/A4vT/resources/practice-platforms/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/tags/programming/</loc>
+    <loc>https://github.com/A4vT/tags/programming/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/resources/</loc>
+    <loc>https://github.com/A4vT/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/tags/resources/</loc>
+    <loc>https://github.com/A4vT/tags/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/notes/reverse-enginnering/</loc>
+    <loc>https://github.com/A4vT/notes/reverse-enginnering/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/tags/reverse-enginnering/</loc>
+    <loc>https://github.com/A4vT/tags/reverse-enginnering/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/posts/the-purpose-of-pointers/</loc>
+    <loc>https://github.com/A4vT/posts/the-purpose-of-pointers/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/posts/the-stack-and-the-heap/</loc>
+    <loc>https://github.com/A4vT/posts/the-stack-and-the-heap/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/posts/what-is-exploit-development/</loc>
+    <loc>https://github.com/A4vT/posts/what-is-exploit-development/</loc>
   </url><url>
-    <loc>http://localhost:1313/A4vT/writeups/</loc>
+    <loc>https://github.com/A4vT/writeups/</loc>
   </url>
 </urlset>
