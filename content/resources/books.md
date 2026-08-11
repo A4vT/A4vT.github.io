@@ -4,10 +4,17 @@ title: "Books"
 ---
 
 ## Os Internals(linux)
-- The Linux Programming Interface
-- Modern Operating Systems
-- Understanding the Linux Kernel
-- Linux Kernel Developement
+- **[The Linux Programming Interface](https://ia601507.us.archive.org/22/items/linux-programming/the-linux-programming-interface.pdf)** by Michael Kerrisk.
+  * *why read it:* Good book to understand system programming on linux.
+
+- **[Modern Operating Systems (fourth edition)](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)** by Andrew Tanenbaum.
+  * *Why read it:* understand how Os work internally.
+
+- **[Understanding the Linux Kernel (3rd Edition)](https://www.oreilly.com/library/view/understanding-the-linux/0596005652/)** by Daniel P.Bovet, Marco Cesati.
+  * *Why read it:* learn how Os concepts are implemented in linux.
+
+- **[Linux Kernel Developement (3rd Edition)](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)** by Robert Love.
+  * *Why read it:* practical book, teaches you how to work with and develop the Linux Kernel.
 
 ## C programming Language
 - **[The C Programming Language (2nd Edition)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)** by Brian Kernighan and Dennis Ritchie. 
