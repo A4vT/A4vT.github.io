@@ -1,7 +1,8 @@
 ---
 title: "CTF Write-ups: [Write up test]"
-draft: false
-tags: ["CTF, C, buffer-overflow"]
+draft: true
+tags: 
+ - "CTF"
 showToc: true
 TocOpen: false
 ---

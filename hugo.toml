@@ -1,6 +1,5 @@
 baseURL = 'https://a4vt.github.io/'
 locale = 'en-us'
-languageCode = 'en-us'
 enableRobotsTXT = true
 theme = "PaperMod"
 

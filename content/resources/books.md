@@ -5,32 +5,32 @@ title: "Books"
 
 ## Os Internals(linux)
 - **[The Linux Programming Interface](https://ia601507.us.archive.org/22/items/linux-programming/the-linux-programming-interface.pdf)** by Michael Kerrisk.
-  * *why read it:* Good book to understand system programming on linux.
+  * *Why You Should Read it:* Good book to understand system programming on linux.
 
 - **[Modern Operating Systems (fourth edition)](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)** by Andrew Tanenbaum.
-  * *Why read it:* understand how Os work internally.
+  * *Why You Should Read it:* understand how Os work internally.
 
 - **[Understanding the Linux Kernel (3rd Edition)](https://www.oreilly.com/library/view/understanding-the-linux/0596005652/)** by Daniel P.Bovet, Marco Cesati.
-  * *Why read it:* learn how Os concepts are implemented in linux.
+  * *Why You Should Read it:* learn how Os concepts are implemented in linux.
 
 - **[Linux Kernel Developement (3rd Edition)](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)** by Robert Love.
-  * *Why read it:* practical book, teaches you how to work with and develop the Linux Kernel.
+  * *Why You Should Read it:* practical book, teaches you how to work with and develop the Linux Kernel.
 
 ## C programming Language
 - **[The C Programming Language (2nd Edition)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)** by Brian Kernighan and Dennis Ritchie. 
-  * *Why read it:* The Classic book to learn C.
+  * *Why You Should Read it:* The Classic book to learn C.
 
 - **[C Primer Plus](https://www.amazon.com/Primer-Plus-6th-Developers-Library-dp-0321928423/dp/0321928423)** by Stephen Prata.
-  * *Why read it:* good for beginners, it Explain core concepts without assuming prior knowledge.
+  * *Why You Should Read it:* good for beginners, it Explain core concepts without assuming prior knowledge.
 
 - **[21st Century C](https://www.oreilly.com/library/view/21st-century-c/9781491904428/)** by Ben Klemens.
-  * *Why read it:* must-read for anyone looking to enhance their modern c programming skills
+  * *Why You Should Read it:* must-read for anyone looking to enhance their modern c programming skills
 
 - **[Learn C the Hard Way](https://www.amazon.com/Learn-Hard-Way-Practical-Computational/dp/0321884922)** by Zed Shaw.
-  * *Why read it:* Good for hands-on practice, it focus on real-word coding skills and defensive programming techniques.
+  * *Why You Should Read it:* Good for hands-on practice, it focus on real-word coding skills and defensive programming techniques.
 
 - **[C Programming: A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504/146-4389759-4967403?psc=1)** by K N King.
-  * *Why read it:* Explain a lot of thing in simple approach.
+  * *Why You Should Read it:* Explain a lot of thing in simple approach.
 
 ## Assembly Language
 - Learn To Program With Assembly 2 edition
