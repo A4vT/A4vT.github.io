@@ -9,15 +9,23 @@ This website is my public knowledge base where i document what i learn through n
 
 Everything here reflects what I'm learning along the way.
 
-## My Goals
-- learn low level systems
-- Understand how systems work under the hood
-- Share what I'm learning
-- Become a skilled exploit-developer
+# What I'm working on 
 
-## Learning Path
-* C / x86/x64 ASM programming
-* OS internals
-* Memory Management
-* Reverse Engineering 
-* Debugging and disassembling
+### Current Learning:
+- C / Memory Management
+- GDB
+- OS Internals
+- x86/64 assembly
+
+### Current Building:
+- nothing so far
+
+### Current Reading:
+- Hacking: The art of exploitation book.
+
+### Current Goal:
+- Solve CTF Challenges
+- build gdb-helper tool.
+
+## Last Updated:
+August 2026.

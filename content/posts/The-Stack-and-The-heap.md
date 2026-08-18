@@ -1,6 +1,6 @@
 ---
 Title: "The Stack And The Heap"
-draft: false
+draft: true
 tags:
 - Memory Management
 ---
@@ -13,7 +13,7 @@ tags:
  - It needs the Stack for Speed to handles Short-terms memory that computer can instantly throw away the second a task finished.
  - And it needs the Heap To Handle complex, long-terms unpredictable Memories.
 
-## Stack Vs Heap
+## Common Memory corruption
 - Memory Leak
 - Stack buffer overflow
 - Double-free

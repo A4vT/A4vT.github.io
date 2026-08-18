@@ -3,7 +3,7 @@ draft: false
 title: "Books"
 ---
 
-## Os Internals(linux)
+## Os Internals(Linux)
 - **[The Linux Programming Interface](https://ia601507.us.archive.org/22/items/linux-programming/the-linux-programming-interface.pdf)** by Michael Kerrisk.
   * *Why You Should Read it:* Good book to understand system programming on linux.
 
@@ -39,3 +39,4 @@ title: "Books"
 - Practical Binary Analysis
 - The Shellcoder's Handbook
 - Practice Binary Analysis
+- "Hacking: The are of Exploitation 2nd edition
